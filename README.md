@@ -1,4 +1,4 @@
-# SteamAvatar
+# SteamAvatarAPI
 Steam Avatar URL API
 
 ### Request URL
